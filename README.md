@@ -54,7 +54,6 @@ Crea una rama nueva para tus cambios: git checkout -b mi-rama.
 Realiza los cambios deseados y realiza commits: git commit -m "Descripción de los cambios".
 Haz push a la rama: git push origin mi-rama.
 Crea un pull request en este repositorio.
-Licencia
-Este proyecto está bajo la licencia MIT. Ver el archivo LICENSE para más detalles.
+les.
 
-Espero que este README te ayude a configurar y probar el proyecto en tu ambiente de trabajo. Si tienes alguna pregunta o encuentras algún problema, no dudes en contactarme. ¡Buena suerte!
+
